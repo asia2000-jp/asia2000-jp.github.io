@@ -66,7 +66,7 @@
 
 <!-- S:fb meta -->
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://s13.gifyu.com/images/bq3qu.png" />
+<meta property="og:image" content="https://s13.gifyu.com/images/bq3RT.png" />
 <meta property="og:title" content="ASIA2000 || Daftar Platform Game Asia Paling Terpercaya" />
 <meta property="og:description" content="ASIA2000 menghadirkan panduan strategi jitu untuk pola bermain game online yang lebih stabil. Optimalkan pengalaman gaming Anda dengan sistem profesional dan transaksi kilat 2026. Daftar di situs paling bonafit ASIA2000 hari ini.">
 <meta property="og:url" content="https://asia2000-jp.github.io/" />
@@ -80,7 +80,7 @@
 <meta name="twitter:creator" content="@kompascom">
 <meta name="twitter:title" content="ASIA2000 || Daftar Platform Game Asia Paling Terpercaya" />
 <meta name="twitter:description" content="ASIA2000 menghadirkan panduan strategi jitu untuk pola bermain game online yang lebih stabil. Optimalkan pengalaman gaming Anda dengan sistem profesional dan transaksi kilat 2026. Daftar di situs paling bonafit ASIA2000 hari ini." />
-<meta name="twitter:image" content="https://s13.gifyu.com/images/bq3qu.png" />
+<meta name="twitter:image" content="https://s13.gifyu.com/images/bq3RT.png" />
 <!-- E:tweeter card -->
 
 <meta name="content_category" content="ASIA2000" />
@@ -105,7 +105,7 @@
 <meta name="content_total_pages" content="1" />
 <meta name="content_current_page" content="1" />
 
-<link rel="preload" as="image" href="https://s13.gifyu.com/images/bq3qu.png">
+<link rel="preload" as="image" href="https://s13.gifyu.com/images/bq3RT.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
 <meta name="google-site-verification" content="OlywRAXdpHkKt5_MbMyxEi11AN3VuTyrgIOKQys636E" />
@@ -361,7 +361,7 @@ var rl_adx_val = '';
   "@context" : "http://schema.org",
   "@type" : "Organization",
   "url": "https://asia2000-jp.github.io/",
-  "logo": "https://s13.gifyu.com/images/bq3qu.png",
+  "logo": "https://s13.gifyu.com/images/bq3RT.png",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
     "https://www.twitter.com/kompascom",
@@ -1920,7 +1920,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <link rel="stylesheet" href="https://asset.kompas.com/data/2017/wp/css/kcm2019-photo-article.min.css?v=10" type="text/css">
 <div class="cover-photo -gallery" data-photostyle="">
     <div class="photo__wrap">
-                    <img width="780" height="520" src="https://s13.gifyu.com/images/bq3qu.png">
+                    <img width="780" height="520" src="https://s13.gifyu.com/images/bq3RT.png">
                        
             </div>
 </div>
@@ -3251,7 +3251,7 @@ if (onSubmitNps !== null) {
             <div class="kgmModal-block">
                 <div class="kgmModal-body" data-event-category="popup_boostnotification" data-event-action="view_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="impression">
                     <div class="kgmModal-img">
-                        <img src="https://s13.gifyu.com/images/bq3qu.png" alt="Kompas.com" />
+                        <img src="https://s13.gifyu.com/images/bq3RT.png" alt="Kompas.com" />
                     </div>
 <p><strong>AYO GABUNG DI ASIA2000 SEKARANG!</strong> SITUS TARUHAN JUDI ASIA2000 APK ASIA2000 WEB MAXWIN SIANG HARI INI !</p>
                 </div>
